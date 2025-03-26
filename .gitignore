@@ -1,0 +1,35 @@
+# C# project specific ignores
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.bak
+*.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
+*.DotSettings
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Rider specific ignores
+.idea/
+*.sln.iml
+
+# VS Code specific ignores
+.vscode/
+
+# Output files from this specific example
+output.webp
