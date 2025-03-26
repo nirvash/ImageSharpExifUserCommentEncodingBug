@@ -32,4 +32,4 @@ TestResult.xml
 .vscode/
 
 # Output files from this specific example
-output.webp
+# output.webp # Removed to include the output file in the repository for inspection
